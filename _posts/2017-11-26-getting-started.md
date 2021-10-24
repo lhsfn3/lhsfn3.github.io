@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Getting Started with Sleek
 featured-img: sleek
@@ -70,4 +70,4 @@ md |Post Hero | 329.375px | 658.75px
 lg |Post Hero | 445.625px | 891.25px
 xl |Post Hero | 353.125px | 706.25px
 
-Happy hacking!
+Happy hacking! -->
